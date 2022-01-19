@@ -1,0 +1,17 @@
+{
+    "númeroDaNota": "",
+    "CNPJemissor": "", 
+    "listaProdutos":[
+        {
+            "nome": "XXX", 
+            "preco": 120.00
+
+        }, 
+        {
+            "nome": "yyy",
+            "preco": 150.00
+
+        }
+    ], 
+    "valorTotal": 270
+}
