@@ -30,15 +30,6 @@
         ]
     },
     {
-        "nome": "João",
-        "cpf": "444.444.444-44",
-        "casado": false,
-        "filhos": [
-            "Maria",
-            "Joaquina"
-        ]
-    },
-    {
         "nome": "Lineu",
         "cpf": "333.333.333-33",
         "casado": true,
