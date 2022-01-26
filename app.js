@@ -29,3 +29,5 @@ fs.writeFileSync('pessoas.json', JSON.stringify(pessoas, null, 4));
 // mostrar o array de pessoas no formato de tabela
 
 console.table(pessoas);
+
+//fim
